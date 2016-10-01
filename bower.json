@@ -20,7 +20,9 @@
     "app",
     ".gitignore",
     "Gulpfile.js",
-    "index.html"
+    "index.html",
+    "index-dist.html",
+    "example.jpg"
   ],
   "dependencies": {
     "angular": "^1.5.8"
