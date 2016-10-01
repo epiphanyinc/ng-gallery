@@ -4,6 +4,11 @@ It is an Angular directive to display and manage images.
 
 It has no third-party dependencies. 
 
+## Hot to install
+```javascript
+    bower install ngy-preview
+```
+
 ## Quick start
 
 ```javascript
