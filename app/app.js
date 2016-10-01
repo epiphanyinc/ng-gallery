@@ -19,7 +19,7 @@
                     return $q.when();
                 }
 
-                $q.reject();
+                return $q.reject();
             };
         });
 })(window.angular)

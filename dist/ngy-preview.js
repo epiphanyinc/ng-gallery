@@ -18,7 +18,8 @@
         ].join(''));
     }
 
-})(window.angular)
+})(window.angular);
+
 (function (angular) {
     'use strict';
 

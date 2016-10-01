@@ -18,4 +18,4 @@
         ].join(''));
     }
 
-})(window.angular)
+})(window.angular);
