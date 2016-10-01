@@ -1,0 +1,28 @@
+{
+  "name": "ngy-preview",
+  "description": "It is an Angular directive to display and manage images",
+  "main": "dist/ngy-preview.js",
+  "authors": [
+    "Henrique Custódia <martinshenrique8@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "preview",
+    "ng",
+    "ngy",
+    "image"
+  ],
+  "homepage": "https://github.com/epiphanyinc/ng-preview",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "src",
+    "app",
+    ".gitignore",
+    "Gulpfile.js",
+    "index.html"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
