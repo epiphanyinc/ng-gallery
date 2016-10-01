@@ -32,6 +32,6 @@ The output will be:
 ## API
 
 * `data`: This attribute is useful to set an array with all image's path.
-* `on-delete`: This attribute is useful to delete an image from image's array. It has to receive a callback and this callback has to return a promise. If that promise returned was resolved, the image will removed from array. But if that promise was rejected, nothing happens.
+* `on-delete`: This attribute is useful to delete an image from image's array. It has to receive a callback and this callback has to return a promise. If that promise returned was resolved, the image will be removed from array. But if that promise was rejected, nothing happens.
 
 MIT
