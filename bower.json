@@ -2,6 +2,7 @@
   "name": "ngy-preview",
   "description": "It is an Angular directive to display and manage images",
   "main": "dist/ngy-preview.js",
+  "version": "1.0.1",
   "authors": [
     "Henrique Custódia <martinshenrique8@gmail.com>"
   ],

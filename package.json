@@ -1,6 +1,6 @@
 {
   "name": "ngy-preview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is an Angular directive to display and manage images",
   "main": "Gulpfile.js",
   "scripts": {

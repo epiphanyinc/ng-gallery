@@ -11,6 +11,14 @@ It has no third-party dependencies.
 
 ## Quick start
 
+```html
+    <link rel="stylesheet" type="text/css" href="ngy-preview.css">
+```
+
+```html
+    <script src="ngy-preview-min.js"></script>
+```
+
 ```javascript
     angular.module('<yourModule>', ['ngyPreview'])
         .controller('YourController', function(){
